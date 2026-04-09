@@ -1,5 +1,9 @@
 # Adaptive Cruise Control with PID and Predictive Braking
 
+## Key Result
+
+Final system achieved a minimum following distance of **11.43 m**, improving from **3.89 m** through predictive braking using relative velocity.
+
 ## Overview
 
 This project implements a simulation of an adaptive cruise control system. It models how a vehicle maintains a safe following distance under dynamic conditions.
