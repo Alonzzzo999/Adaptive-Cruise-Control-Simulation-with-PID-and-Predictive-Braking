@@ -6,6 +6,8 @@ This project implements a simulation of an adaptive cruise control system. It mo
 
 The system uses a PID controller to regulate braking and incorporates relative velocity to improve response time and stability.
 
+This project focuses on improving braking behavior through control system design and iterative tuning.
+
 ---
 
 ## Key Concepts
