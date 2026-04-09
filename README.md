@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project implements a simulation of an adaptive cruise control system. It models how a vehicle maintains a safe following distance while responding to changes in a lead vehicle’s speed.
+This project implements a simulation of an adaptive cruise control system. It models how a vehicle maintains a safe following distance under dynamic conditions.
 
 The system uses a PID controller to regulate braking and incorporates relative velocity to improve response time and stability.
 
-This project focuses on improving braking behavior through control system design and iterative tuning.
+The focus is on improving braking behavior through control system design and iterative tuning.
 
 ---
 
