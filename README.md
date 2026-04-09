@@ -109,4 +109,4 @@ python main.py
 
 ## Summary
 
-This project demonstrates how control systems and basic physics can be used to model real-time decision making in vehicle systems. It highlights the importance of anticipating system behavior, not just reacting to it.
+This project demonstrates how control systems and physics-based modeling can be used to make real-time decisions in dynamic environments. It shows the importance of incorporating predictive information, such as relative velocity, rather than relying solely on reactive control.
