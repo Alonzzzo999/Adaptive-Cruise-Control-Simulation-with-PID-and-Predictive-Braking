@@ -109,4 +109,4 @@ python main.py
 
 ## Summary
 
-This project demonstrates how control systems and physics-based modeling can be used to make real-time decisions in dynamic environments. It shows the importance of incorporating predictive information, such as relative velocity, rather than relying solely on reactive control.
+This project demonstrates how control systems and physics-based modeling enable real-time decision making in dynamic environments. It highlights the value of predictive control, using relative velocity to improve system stability and safety.
